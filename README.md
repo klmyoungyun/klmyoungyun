@@ -4,7 +4,7 @@
 ### [부스트캠프 웹·모바일 8기](https://boostcamp.connect.or.kr)
 - 📆 교육 일정 | 2023. 07. 10 ~ 2023. 12. 15
 - 🙋🏻‍♂️ 담당 파트 | iOS
-- 📚 수 료 증　ㅤㅤㅤ| [챌린지](https://github.com/klmyoungyun/klmyoungyun/files/13777479/certificate_B20230902-769160-2.pdf), [멤버쉽](https://github.com/klmyoungyun/klmyoungyun/files/13777478/certificate_B20231222-930501.pdf)
+- 📚 수 료 증ㅤ| [챌린지](https://github.com/klmyoungyun/klmyoungyun/files/13777479/certificate_B20230902-769160-2.pdf), [멤버쉽](https://github.com/klmyoungyun/klmyoungyun/files/13777478/certificate_B20231222-930501.pdf)
 
 ### [Mash-Up IT 동아리](https://mash-up.kr)
 - 📆 활동 일정 | 2023. 02 ~ 현재 활동 중
